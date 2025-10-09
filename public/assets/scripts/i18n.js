@@ -22,9 +22,9 @@ const i18n = {
       'services.card3.description': 'Enhance your reading experience with our interactive tools. Track your progress, set reading goals, and improve your comprehension with our innovative features.',
       'services.card3.link': 'LEARN MORE +',
       'about.title': 'ABOUT US',
-      'about.bookify.description': 'Bookify is a startup led by students from the Peruvian University of Applied Sciences (UPC) dedicated to promoting reading and facilitating its access in digital environments. With the goal of bringing literature to more people, the Livria project was developed, an innovative web application that allows users to discover, purchase, and enjoy books in various formats: physical, e-books, and audiobooks.',
-      'about.bookify.belief': 'At Bookify, we believe that reading is fundamental to learning, culture, and the development of critical thinking. It\'s not just a habit, but a choice.',
-      'about.bookify.tag': 'BOOKIFY',
+      'about.Defontes.description': 'Defontes is a startup led by students from the Peruvian University of Applied Sciences (UPC) dedicated to promoting reading and facilitating its access in digital environments. With the goal of bringing literature to more people, the Livria project was developed, an innovative web application that allows users to discover, purchase, and enjoy books in various formats: physical, e-books, and audiobooks.',
+      'about.Defontes.belief': 'At Defontes, we believe that reading is fundamental to learning, culture, and the development of critical thinking. It\'s not just a habit, but a choice.',
+      'about.Defontes.tag': 'Defontes',
       'about.livria.tag': 'LIVRIA',
       'about.livria.description': 'Livria is a web application designed to revolutionize the way people acquire and enjoy books. Through an intuitive and accessible platform, it offers a wide selection of titles, allowing users to explore and purchase their favorite books quickly and easily. With the goal of encouraging the habit of reading and creating a community of book lovers, Livria facilitates the connection between readers and the literary world in a modern digital environment.',
       'contact.title': 'CONTACT US',
@@ -34,7 +34,7 @@ const i18n = {
       'contact.reason': 'Reason for contact',
       'contact.cv': 'If you\'d like to work with us, leave your CV!',
       'contact.upload': 'Add file',
-      'contact.consent': 'I agree to share my personal information with the Bookify Livria team',
+      'contact.consent': 'I agree to share my personal information with the Defontes Livria team',
       'contact.submit': 'SEND',
       'contact.success': 'Thank you! Your message has been sent successfully.',
       'footer.tagline': 'Discover the joy of reading in a vibrant literary community.',
@@ -48,7 +48,7 @@ const i18n = {
       'footer.help': 'Help',
       'footer.faq': 'Frequent Questions',
       'footer.contactUs': 'Contact Us',
-      'footer.copyright': '© 2025 Bookify - Livria. All rights reserved.'
+      'footer.copyright': '© 2025 Defontes - Livria. All rights reserved.'
    },
    // Spanish
    es: {
@@ -72,9 +72,9 @@ const i18n = {
       'services.card3.description':'Mejora tu experiencia de lectura con nuestras herramientas interactivas. Haz seguimiento de tu progreso, establece metas de lectura y mejora tu comprensión con nuestras funciones innovadoras.',
       'services.card3.link':'SABER MÁS +',
       'about.title': 'SOBRE NOSOTROS',
-      'about.bookify.description': 'Bookify es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) dedicada a promover la lectura y facilitar su acceso en entornos digitales. Con el objetivo de llevar la literatura a más personas, se desarrolló el proyecto Livria, una aplicación web innovadora que permite a los usuarios descubrir, comprar y disfrutar de libros en varios formatos: físicos, e-books y audiolibros.',
-      'about.bookify.belief': 'En Bookify, creemos que la lectura es fundamental para el aprendizaje, la cultura y el desarrollo del pensamiento crítico. No es solo un hábito, sino una elección.',
-      'about.bookify.tag': 'BOOKIFY',
+      'about.Defontes.description': 'Defontes es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) dedicada a promover la lectura y facilitar su acceso en entornos digitales. Con el objetivo de llevar la literatura a más personas, se desarrolló el proyecto Livria, una aplicación web innovadora que permite a los usuarios descubrir, comprar y disfrutar de libros en varios formatos: físicos, e-books y audiolibros.',
+      'about.Defontes.belief': 'En Defontes, creemos que la lectura es fundamental para el aprendizaje, la cultura y el desarrollo del pensamiento crítico. No es solo un hábito, sino una elección.',
+      'about.Defontes.tag': 'Defontes',
       'about.livria.tag': 'LIVRIA',
       'about.livria.description': 'Livria es una aplicación web diseñada para revolucionar la forma en que las personas adquieren y disfrutan los libros. A través de una plataforma intuitiva y accesible, ofrece una amplia selección de títulos, permitiendo a los usuarios explorar y comprar sus libros favoritos de manera rápida y sencilla. Con el objetivo de fomentar el hábito de la lectura y crear una comunidad de amantes de los libros, Livria facilita la conexión entre los lectores y el mundo literario en un entorno digital moderno.',
       'contact.title': 'CONTÁCTANOS',
@@ -84,7 +84,7 @@ const i18n = {
       'contact.reason': 'Motivo de contacto',
       'contact.cv': '¡Si quieres trabajar con nosotros, déjanos tu CV!',
       'contact.upload': 'Añadir archivo',
-      'contact.consent': 'Acepto compartir mi información personal con el equipo de Bookify Livria',
+      'contact.consent': 'Acepto compartir mi información personal con el equipo de Defontes Livria',
       'contact.submit': 'ENVIAR',
       'contact.success': '¡Gracias! Tu mensaje ha sido enviado con éxito.',
       'footer.tagline': 'Descubre el placer de leer en una vibrante comunidad literaria.',
@@ -98,6 +98,6 @@ const i18n = {
       'footer.help': 'Ayuda',
       'footer.faq': 'Preguntas Frecuentes',
       'footer.contactUs': 'Contáctanos',
-      'footer.copyright': '© 2025 Bookify - Livria. Todos los derechos reservados.'
+      'footer.copyright': '© 2025 Defontes - Livria. Todos los derechos reservados.'
    }
 };
