@@ -27,9 +27,18 @@ body {
   gap: 10px;
 }
 
-.header__logo img{
-    width: 50px;
-    height: auto;
+.livria__logo img{
+  height: 5vh;
+  width: auto;
+  min-height: 40px;
+  min-width: 230px;
+}
+
+.footer__logo img {
+  height: 4vh;
+  width: auto;
+  min-height: 30px;
+  min-width: 190px;
 }
 
 .header__logo-text {
@@ -125,6 +134,7 @@ body {
 }
 
 /* Hero Section */
+
 .hero {
   padding: 40px 0;
 }
@@ -444,12 +454,20 @@ body {
 
 .about__logo {
   margin-bottom: 20px;
-  align-self: flex-start;
+  align-self: center;
 }
 
 .about__logo img {
-  width: 100px;
+  height: 10vh;
+  width: auto;
+  min-height: 80px;
+  min-width: 150px;
+}
+
+.defontes_logo img {
+  width: 10vw;
   height: auto;
+  min-width: 200px;
 }
 
 .about__text {
